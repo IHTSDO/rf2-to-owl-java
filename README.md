@@ -1,4 +1,12 @@
-# SNOMED CT RF2 and  OWL Utilities
+
+
+**This implementation is not recommended for Snomed releases after July 2018 because it does not deal with the latest DL enhancements or MRCM driven grouping.**
+
+**The official project for converting RF2 to OWL is the [Snomed OWL Toolkit](https://github.com/IHTSDO/snomed-owl-toolkit).**
+
+# SNOMED CT RF2 and  OWL Utilities (Deprecated)
+
+_Thank you to TermMed for providing this implementation._
 
 This project uses the OWLApi perform different transformations of SNOMED CT representations.
 
